@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Dammes",
+"productVersion": "0.1",
+"dataUrl": "dammes_Web.data.unityweb",
+"wasmCodeUrl": "dammes_Web.wasm.code.unityweb",
+"wasmFrameworkUrl": "dammes_Web.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "dammes_Web.jpg",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.5f1"
+}
